@@ -34,6 +34,8 @@
       * Bounding
     * Same Direction
       * Slow-fast
+        * Cycle Detection
+        * K-th Last Element
       * Sliding Window
         * Fixed Length Window
         * Dynamic Window Length
