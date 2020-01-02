@@ -59,3 +59,10 @@
     * Graph
     * Adjacency List
     * Buildup
+
+* Heap
+  * Top K Elements
+  * Kth Smallest Element
+  * Kth Largest Element
+  * Merge K Lists
+  * Kth Closest
