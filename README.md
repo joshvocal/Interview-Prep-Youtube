@@ -6,6 +6,12 @@
 
 ## Algorithms
 
+* [Linear Search](https://en.wikipedia.org/wiki/Linear_search)
+
+* [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+  * Find Min
+  * Find Max
+
  * [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
    * Tree
       * [Level-Order](https://en.wikipedia.org/wiki/Tree_traversal#Breadth-first_search)
