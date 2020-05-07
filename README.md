@@ -14,8 +14,8 @@
    * Array
    * Graph
  * [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
-   * [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill)
    * Graph
+      * [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill)
    * Tree
       * [Pre-Order](https://en.wikipedia.org/wiki/Tree_traversal#Pre-order)
          * Recursive
