@@ -41,6 +41,8 @@
     * [Max Heap](https://en.wikipedia.org/wiki/Min-max_heap)
 
 * [Trie](https://en.wikipedia.org/wiki/Trie)
+ * HashMap
+ * Array
 
 ## Patterns
 
