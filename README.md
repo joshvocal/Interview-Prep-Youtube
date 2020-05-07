@@ -44,13 +44,13 @@
 
 ## Patterns
 
-* Arrays
+* **Arrays**
   * Two-Pointers
     * Opposite Direction
       * Bounding
     * Same Direction
       * Slow-fast
-        * Cycle Detection
+        * Floyd Cycle Detection
         * K-th Last Element
       * Sliding Window
         * Fixed Length Window
@@ -59,7 +59,7 @@
         * String Permutation
 
 
-* Graphs
+* **Graphs**
   * Depth First Search
     * Backtracking
       * Permutations with Repetition
@@ -76,7 +76,7 @@
     * Adjacency List
     * Buildup
 
-* Heap
+* **Heap**
   * Top K Elements
   * Kth Smallest Element
   * Kth Largest Element
