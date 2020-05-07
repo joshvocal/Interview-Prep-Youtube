@@ -37,12 +37,12 @@
 ## Data Structures
 
 * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
-    * [Min Heap](https://en.wikipedia.org/wiki/Min-max_heap)
-    * [Max Heap](https://en.wikipedia.org/wiki/Min-max_heap)
+  * [Min Heap](https://en.wikipedia.org/wiki/Min-max_heap)
+  * [Max Heap](https://en.wikipedia.org/wiki/Min-max_heap)
 
 * [Trie](https://en.wikipedia.org/wiki/Trie)
- * HashMap
- * Array
+  * HashMap
+  * Array
 
 ## Patterns
 
