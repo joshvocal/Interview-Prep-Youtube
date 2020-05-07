@@ -1,4 +1,4 @@
-# Interview-Prep-Youtube
+# Interview Prep
 
 ### Trouble Viewing Notebooks on GitHub
 
