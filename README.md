@@ -8,15 +8,25 @@
 
 * Graph
     * [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+      * Tree
+         * [Level-Order](https://en.wikipedia.org/wiki/Tree_traversal#Breadth-first_search)
+         * N-ary Tree
+      * Adjacency List 
+      * Array
+      * Graph
     * [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
       * [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill)
-    * Tree
-      * Depth First
-        * [Pre-Order](https://en.wikipedia.org/wiki/Tree_traversal#Pre-order)
-        * [In-Order](https://en.wikipedia.org/wiki/Tree_traversal#In-order)
-        * [Post-Order](https://en.wikipedia.org/wiki/Tree_traversal#Post-order)
-      * Breadth First
-        * [Level-Order](https://en.wikipedia.org/wiki/Tree_traversal#Breadth-first_search)
+      * Tree
+         * [Pre-Order](https://en.wikipedia.org/wiki/Tree_traversal#Pre-order)
+            * Recursive
+            * Iterative
+         * [In-Order](https://en.wikipedia.org/wiki/Tree_traversal#In-order)
+            * Recursive
+            * Iterative
+         * [Post-Order](https://en.wikipedia.org/wiki/Tree_traversal#Post-order)
+            * Recursive
+            * Iterative
+
 
 ## Data Structures
 
