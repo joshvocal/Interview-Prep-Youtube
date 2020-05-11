@@ -6,6 +6,14 @@
 
 ## Algorithms
 
+* [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+  * Top Down
+    * Recursive
+    * Memoization - Memoization refers to the technique of caching and reusing previously computed results
+  * Bottom Up
+    * Iterative
+    * Tabulation - Tabulation is similar in the sense that it builds up a cache, but the approach is different. A tabulation algorithm focuses on filling the entries of the cache, until the target value has been reached.
+
 * [Linear Search](https://en.wikipedia.org/wiki/Linear_search)
 
 * [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
@@ -46,6 +54,13 @@
   * Array
 
 ## Patterns
+
+* **Dynamic Programming**
+  * Top Down
+  * Bottom Up
+  * 1D Array
+  * 2D Array
+  * Recurrance Relation
 
 * **Arrays**
   * Two-Pointers
