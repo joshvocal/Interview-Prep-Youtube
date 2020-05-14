@@ -9,10 +9,11 @@
 * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
   * Top Down
     * Recursive
-    * Memoization - Memoization refers to the technique of caching and reusing previously computed results
+    * Memoization
   * Bottom Up
     * Iterative
-    * Tabulation - Tabulation is similar in the sense that it builds up a cache, but the approach is different. A tabulation algorithm focuses on filling the entries of the cache, until the target value has been reached.
+    * Tabulation
+  * [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
 
 * [Linear Search](https://en.wikipedia.org/wiki/Linear_search)
 
